@@ -3,7 +3,7 @@ entries:
   giropops-chart:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-09-13T22:04:21.050514375-03:00"
+    created: "2024-09-13T22:13:18.634848549-03:00"
     description: Helm chart para da aplicacao giropopos com Deployments, Services
     digest: a6691aab767b9ea37f7c87933e45ff1788cb76d0ba2a2a8752a5692f9a517bab
     keywords:
@@ -17,6 +17,6 @@ entries:
     sources:
     - https://github.com/fellipe85/helm_senhas/
     urls:
-    - https://github.com/fellipe85/helm-senhas/giropops-chart-0.1.0.tgz
+    - https://fellipe85.github.io/helm-senhas/giropops-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-13T22:04:21.048699788-03:00"
+generated: "2024-09-13T22:13:18.632788076-03:00"
